@@ -1,2 +1,1 @@
-# TingDog
-Tinder for dogs css/bootstrap udemy project
+TinDog Starting Files
